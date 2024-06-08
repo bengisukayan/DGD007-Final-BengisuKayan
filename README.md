@@ -1,1 +1,1 @@
-Basic shader exercises.
+Basic shader exercises in Unity.
